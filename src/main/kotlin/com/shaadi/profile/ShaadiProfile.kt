@@ -1,4 +1,4 @@
-package com.shaadi.profiletest
+package com.shaadi.profile
 
 class ShaadiProfile() {
     fun act() = "DONE"
